@@ -27,4 +27,4 @@ This repository will contain 4 files
 4. `tidy.txt` - the final output from the script above that contains the tidy data
 
 ## Dependencies
-The `run_analysis.R` file references the dependency on R packages **reshape2** and **data.table**
+The `run_analysis.R` file references the dependency on R package **data.table**
